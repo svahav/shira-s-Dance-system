@@ -1,2 +1,2 @@
-# shira-s-Dance-system
+# shira-Dance-system
 Shira's Dance is an information VBA system for managing dance studio
